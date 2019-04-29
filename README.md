@@ -1,2 +1,2 @@
-# MathQuzz
+# MathQuizz
 A simple math game
